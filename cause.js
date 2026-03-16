@@ -2,7 +2,7 @@
  const reasons = [
     { 
         text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
-        emoji: "🌟",
+        emoji: "✨",
         gif: "gif1.gif"
     },
     { 
@@ -22,12 +22,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "I hope this year brings you new adventures, big achievements, and countless reasons to smile. 🥰 ", 
         emoji: "🐽",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Another year of your life begins today—may it bring you endless happiness, unforgettable memories, and everything your heart wishes for. ☺️ ", 
         emoji: "🐷",
         gif: "gif2.gif"
     }
